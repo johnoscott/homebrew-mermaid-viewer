@@ -1,6 +1,6 @@
 cask "mermaid-viewer" do
-  version "1.2.0"
-  sha256 "e33033d905e7a85ca038aca674d822bfd7eb967734e29ca61b930fd0eabec57a"
+  version "1.2.1"
+  sha256 "79eb36c0fb9d7a0452c790ff83564919612db400b662e156110418937cf66997"
 
   url "https://github.com/johnoscott/MermaidViewer/releases/download/v#{version}/MermaidViewer-#{version}.dmg"
   name "MermaidViewer"
